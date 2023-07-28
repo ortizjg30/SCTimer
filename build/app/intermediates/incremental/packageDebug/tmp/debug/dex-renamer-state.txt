@@ -1,0 +1,4 @@
+#Fri Jul 28 15:08:34 CDT 2023
+base.0=/Users/joshogallegos/Documents/FlutterProjects/sctimer/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
